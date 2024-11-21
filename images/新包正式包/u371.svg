@@ -1,7 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="170px" height="170px" xmlns="http://www.w3.org/2000/svg">
-  <g transform="matrix(1 0 0 1 -1381 -3602 )">
-    <path d="M 1466 3602  C 1513.6 3602  1551 3639.4  1551 3687  C 1551 3734.6  1513.6 3772  1466 3772  C 1418.4 3772  1381 3734.6  1381 3687  C 1381 3639.4  1418.4 3602  1466 3602  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" />
-    <path d="M 1466 3602.5  C 1513.32 3602.5  1550.5 3639.68  1550.5 3687  C 1550.5 3734.32  1513.32 3771.5  1466 3771.5  C 1418.68 3771.5  1381.5 3734.32  1381.5 3687  C 1381.5 3639.68  1418.68 3602.5  1466 3602.5  Z " stroke-width="1" stroke="#797979" fill="none" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="253px" height="40px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -1422 -5649 )">
+    <path d="M 0 35  L 0 5  C 0 2.19999999999982  2.4095238095238 0  5.47619047619048 0  L 95.6902616902626 0  L 99.6370656370656 0  L 247.52380952381 0  C 250.590476190476 0  253 2.19999999999982  253 5  L 253 35  C 253 37.8000000000002  250.590476190476 40  247.52380952381 40  L 5.47619047619048 40  C 2.4095238095238 40  0 37.8000000000002  0 35  Z " fill-rule="nonzero" fill="#ffffff" stroke="none" transform="matrix(1 0 0 1 1422 5649 )" />
   </g>
 </svg>
