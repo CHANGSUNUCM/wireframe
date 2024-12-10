@@ -1,12 +1,9 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="15px" height="27px" xmlns="http://www.w3.org/2000/svg">
-  <defs>
-    <mask fill="white" id="clip2">
-      <path d="M 0.150501672240763 0.405253283302156  L 15 11.3808630394011  L 0.150501672240763 18.135084427767  L 0.150501672240763 26.5778611632284  L 0.150501672240763 0.405253283302156  Z " fill-rule="evenodd" />
-    </mask>
-  </defs>
-  <g transform="matrix(1 0 0 1 -345 -7143 )">
-    <path d="M 0.150501672240763 0.405253283302156  L 15 11.3808630394011  L 0.150501672240763 18.135084427767  L 0.150501672240763 26.5778611632284  L 0.150501672240763 0.405253283302156  Z " fill-rule="nonzero" fill="#000000" stroke="none" transform="matrix(1 0 0 1 345 7143 )" />
-    <path d="M 0.150501672240763 0.405253283302156  L 15 11.3808630394011  L 0.150501672240763 18.135084427767  L 0.150501672240763 26.5778611632284  L 0.150501672240763 0.405253283302156  Z " stroke-width="2" stroke="#797979" fill="none" transform="matrix(1 0 0 1 345 7143 )" mask="url(#clip2)" />
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="280px" height="66px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -1112 -7617 )">
+    <path d="M 1112 7617  L 1392 7617  L 1392 7683  L 1112 7683  L 1112 7617  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
+    <path d="M 1117 7622  L 1387 7622  L 1387 7678  L 1117 7678  L 1117 7622  " fill-rule="nonzero" fill="#ffffff" stroke="none" />
+    <path d="M 1262.55 7636.8  C 1259.778 7636.8  1257.6 7634.622  1257.6 7631.85  C 1257.6 7629.078  1259.778 7626.9  1262.55 7626.9  C 1265.322 7626.9  1267.5 7629.078  1267.5 7631.85  C 1267.5 7634.622  1265.322 7636.8  1262.55 7636.8  " fill-rule="nonzero" fill="#cccccc" stroke="none" />
+    <path d="M 1119 7677  L 1119 7647.85  L 1185.75 7634.6  L 1279.2 7669.50428571429  L 1332.6 7642.55  L 1386 7669.50428571429  L 1386 7677  L 1119 7677  " fill-rule="nonzero" fill="#169bd5" stroke="none" />
   </g>
 </svg>
